@@ -2,13 +2,6 @@
 
 **Content**
 
-/\*&lt;!\[CDATA\[\*/  
-div.rbtoc1619591773681 {padding: 0px;}  
-div.rbtoc1619591773681 ul {list-style: disc;margin-left: 0px;}  
-div.rbtoc1619591773681 li {margin-left: 0px;padding-left: 0px;}  
-  
-/\*\]\]&gt;\*/
-
 * [The first part of the journey has been cancelled](handbok-n801-siri-netex-siri-et-partial-cancellation-first-leg.md#SIRI-ET-Partialcancellation%28firstleg%29-Thefirstpartofthejourneyhasbeencancelled)
   * [Before departure](handbok-n801-siri-netex-siri-et-partial-cancellation-first-leg.md#SIRI-ET-Partialcancellation%28firstleg%29-Beforedeparture)
     * [RecordedCall](handbok-n801-siri-netex-siri-et-partial-cancellation-first-leg.md#SIRI-ET-Partialcancellation%28firstleg%29-RecordedCall)
